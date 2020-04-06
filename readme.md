@@ -6,7 +6,7 @@ The Bikcraft website is a project that I developed during the course <a href="ht
 
 :computer: <a href="http://bikcraft.com/"> Demo </a>
  
-UI Design : <a href="https://www.behance.net/gallery/94947039/Bikcraft-Website-UI"> UI/UX Design Bikcraft </a>
+:robot: <a href="https://www.behance.net/gallery/94947039/Bikcraft-Website-UI"> UI/UX Design Bikcraft </a>
 
 
 # Final project
